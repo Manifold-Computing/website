@@ -1,17 +1,17 @@
 - name: home
-  link: "./"
+  link: "/website"
   group: home
 
 - name: research
-  link: "./research"
+  link: "/website/research"
   group: research
 
 - name: publications
-  link: "./publications"
+  link: "/website/publications"
   group: publications
 
 - name: members
-  link: "./members"
+  link: "/website/members"
   group: members
 
 # - name: openings
