@@ -10,9 +10,13 @@
   link: "/website/publications"
   group: publications
 
-- name: members
-  link: "/website/members"
-  group: members
+- name: join
+  link: "/website/join"
+  group: join
+
+# - name: members
+#   link: "/website/members"
+#   group: members
 
 # - name: openings
 #   link: "/openings"
