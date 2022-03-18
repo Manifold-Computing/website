@@ -1,6 +1,6 @@
-- image: '/images/asrc_homepage_banner.jpg'
+- image: 
   title: 'Manifold Computing Group'
   content: '
-  <p><h3>We're an  distributed research group working on significantly improving learning systems and applying them to the toughest problems humanity faces. 
+  <p><h3>We're a distributed research group working on building next generation learning systems and applying them to the toughest problems humanity faces. 
   We do this by advancing theory and also building exceptional open source tools. Read about our vision <a href="https://github.com/Manifold-Computing/A-Different-Kind-of-Research-Lab">here</a>.</h3></p>
-  '
+'
