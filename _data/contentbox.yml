@@ -1,6 +1,14 @@
-- image: '/website/images/asrc_homepage_banner.jpg'
-  title: 'Manifold Computing Group'
+- image: '/images/asrc_homepage_banner.jpg'
+  title: 'Welcome to the Keedy Lab'
   content: '
-  <p><h3>We're a distributed research group working on building next generation learning systems and applying them to the toughest problems humanity faces. 
-  We do this by advancing theory and also building exceptional open source tools. Read about our vision <a href="https://github.com/Manifold-Computing/A-Different-Kind-of-Research-Lab">here</a>.</h3></p>
+  <p><h3>We are part of the <a href="http://structbio.asrc.cuny.edu/">Structural Biology Initiative</a>
+  of the <a href="http://asrc.cuny.edu/">CUNY Advanced Science Research Center</a> 
+  in New York City.</h3></p>
+
+  <p><h3>Our research aims to better understand the "secret lives" of proteins:
+  how they move when we''re not looking, 
+  how their motions contribute to biology,
+  and how they are regulated to control complex processes in cells.</h3></p>
+
+  <p>For info about how to contact the lab, <a href="/contact">click here</a>.</p>
 '
