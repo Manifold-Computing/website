@@ -7,7 +7,7 @@
   group: research
 
 - name: projects
-  link: "/projects"
+  link: "/website/projects"
   group: projects
 
 - name: publications
@@ -15,7 +15,7 @@
   group: publications
   
 - name: news
-  link: "/news"
+  link: "/website/news"
   group: news
   
 - name: join
