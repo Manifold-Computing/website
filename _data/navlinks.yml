@@ -6,10 +6,18 @@
   link: "/website/research"
   group: research
 
+- name: projects
+  link: "/projects"
+  group: projects
+
 - name: publications
   link: "/website/publications"
   group: publications
-
+  
+- name: news
+  link: "/news"
+  group: news
+  
 - name: join
   link: "/website/join"
   group: join
@@ -21,10 +29,6 @@
 # - name: openings
 #   link: "/openings"
 #   group: openings
-
-# - name: news
-#   link: "/news"
-#   group: news
 
 # - name: contact
 #   link: "/contact"
