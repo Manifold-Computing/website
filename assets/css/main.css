@@ -3184,8 +3184,8 @@ body.subpage {
 }
 
 #header > .logo img {
-	width: 40px;
-	height: 40px;
+	width: 50px;
+	height: 50px;
 }
 
 #header > .logo a {
@@ -3328,8 +3328,8 @@ body.subpage {
 		font-size: 1em;
 	}
 	#header > .logo img {
-		width: 96px;
-		height: 34px;
+		width: 40px;
+		height: 40px;
 	}
 
 }
